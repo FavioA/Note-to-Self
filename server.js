@@ -35,11 +35,11 @@ app.get('/api/notes', (req, res) => {
           res.json(notes)
         }  
     });
+  });
 
 app.post ('/api/notes', (req, res) => {
     const { title, text } = req.body;
     // create a new note adding an id to it and replace req.body with new note
-    
     // Obtain existing notes
     fs.readFile('./db/db.json', 'utf8', (err, data) => {
         if (err) {
