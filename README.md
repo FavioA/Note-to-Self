@@ -18,4 +18,4 @@ Note taker to write and save notes.
 ![Screenshot of the deployed application.](/images/LandingPage.png)
 
 ## Link to deployed website 
-This site was built using [GitHub Pages](https://favioa.github.io/Note-to-Self/).
+This site was built using [GitHub Pages](https://fast-brushlands-88867-68c943bd4f4a.herokuapp.com/).
